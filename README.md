@@ -1,4 +1,6 @@
 # leetcode
 Code challenges
 
-https://leetcode.com/douglasmatosdev/
+
+
+[![Manage Application State with Jotai Atoms](./docs/leetcode.jpeg)](https://leetcode.com/douglasmatosdev/)
