@@ -1,0 +1,17 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "main": "src/*.js",
+  "author": "Douglas Matos da Silva",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon",
+    "lint": "eslint \"src/*.js\"",
+    "lintf": "eslint \"src/*.js\" --fix"
+  },
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "nodemon": "^3.0.1"
+  }
+}
