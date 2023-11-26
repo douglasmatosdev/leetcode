@@ -4,7 +4,10 @@
  * @return {Generator<number>}
  */
 var fibGenerator = function*() {
-    let current = a = b = 1;
+    let a = 1;
+    let b = a;
+    let current = a ;
+
     yield 0; 
 
     while (true) {
