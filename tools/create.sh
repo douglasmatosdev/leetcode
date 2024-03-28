@@ -13,4 +13,3 @@ echo "    test('should ', () => {"           >> $file_to_write_template
 echo " "                                     >> $file_to_write_template
 echo "    });"                               >> $file_to_write_template
 echo "});"                                   >> $file_to_write_template
-echo " "                                     >> $file_to_write_template
