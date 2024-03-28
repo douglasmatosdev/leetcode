@@ -1,3 +1,8 @@
+// https://leetcode.com/problems/first-unique-character-in-a-string/description/
+/**
+ * @param {string} s
+ * @return {number}
+ */
 var firstUniqChar_1 = function (s) {
     for (let i = 0; i < s.length; i++) {
         let index = i
@@ -17,6 +22,10 @@ var firstUniqChar_1 = function (s) {
     return -1
 };
 
+/**
+ * @param {string} s
+ * @return {number}
+ */
 var firstUniqChar_2 = function (s) {
     const m = new Map()
 
