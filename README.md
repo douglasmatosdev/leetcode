@@ -71,5 +71,15 @@
         <td>
             <a href="/src/sleep/sleep.test.js">tests</a>
         </td>
+    </tr>
+      <tr>
+        <td>2626. Array Reduce Transformation</td>
+        <td>
+            <a href="./src/array_reduce_transformation/array_reduce_transformation.js">implementation</a>
+        </td>
+        <td>
+            <a href="/src/array_reduce_transformation/array_reduce_transformation.test.js">tests</a>
+        </td>
+    </tr>
 </tbody>
 </table>
