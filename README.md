@@ -63,5 +63,13 @@
             <a href="/src/counter/counter.test.js">tests</a>
         </td>
     </tr>
+    <tr>
+        <td>2621. Sleep</td>
+        <td>
+            <a href="./src/sleep/sleep.js">implementation</a>
+        </td>
+        <td>
+            <a href="/src/sleep/sleep.test.js">tests</a>
+        </td>
 </tbody>
 </table>
