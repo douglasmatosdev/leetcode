@@ -54,5 +54,14 @@
             <a href="/src/first_uniq_character_in_a_string/first_uniq_character_in_a_string.test.js">tests</a>
         </td>
     </tr>
+    <tr>
+        <td>2620. Counter</td>
+        <td>
+            <a href="./src/counter/counter.js">implementation</a>
+        </td>
+        <td>
+            <a href="/src/counter/counter.test.js">tests</a>
+        </td>
+    </tr>
 </tbody>
 </table>
