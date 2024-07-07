@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"test": "jest --watch",
+		"testw": "jest --watchAll"
+	},
+	"dependencies": {
+		"jest": "^29.7.0"
+	}
+}
